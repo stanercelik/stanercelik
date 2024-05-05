@@ -37,3 +37,7 @@ I am passionate about learning new technologies and embrace failures as opportun
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=stanercelik&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<br><br>
+
+[![](https://visitcount.itsvg.in/api?id=stanercelik&icon=5&color=6)](https://visitcount.itsvg.in)
