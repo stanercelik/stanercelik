@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Salim Taner Çelik</h1>
-<h3>Studying Computer Science at the University of Ege, Turkey  </h3>
-<h3>Currently improving myself in mobile programming focusing on iOS development</h3>
+<h3>Studied Computer Science at the University of Ege, Turkey  </h3>
+<h3>Currently improving myself in mobile programming focusing on Native IOS and Flutter development</h3>
 
 # 💫 About Me:
 I am passionate about learning new technologies and embrace failures as opportunities for growth. I am always eager to take on new challenges, driven by the belief that:
